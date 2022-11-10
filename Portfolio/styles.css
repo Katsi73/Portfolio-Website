@@ -1,0 +1,48 @@
+#intro {
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 300px;
+	font-size: 25px;
+	padding: 15px 5px;
+	width: 1000px;
+	margin: 0 auto;
+	background-color:
+}
+
+#redirect {
+	text-align: center;
+	color: white;
+	position: relative;
+	top: 300px;
+	font-size: 45px;
+	border: 3px solid white;
+	margin: 0 auto;
+	width: 360px;
+	padding: 5px 5px;
+	height: 100%
+}
+
+* {
+	overflow: visible;
+}
+
+#name {
+	color: #ad520b;
+}
+
+html {
+	background:
+	background-size: cover;
+	background-color: #123D67;
+}
+
+#link {
+	text-decoration: none;
+	color: white;
+	padding: 6px 28px;
+}
+
+a:hover {
+	background-color: #1d335a;
+}
